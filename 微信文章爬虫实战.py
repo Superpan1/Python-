@@ -2,6 +2,8 @@
 #应对封IP，限制访问等问题
 #使用代理服务器爬取网址！
 #必须开启flipped代理服务器
+#作者：master_g
+#作品：我的第一个爬虫小程序
 import urllib.request
 import urllib.error
 import re
